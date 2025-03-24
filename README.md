@@ -22,7 +22,7 @@ Full Stack
  ## index page
    ![weather home page](https://github.com/Martin-laicw/Weather_API/blob/main/Index%20Page.png)
 
-## index page
+## weather example page
    ![weather example](https://github.com/Martin-laicw/Weather_API/blob/main/Weather%20Example.png)
 
 ## Usage
